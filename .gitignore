@@ -2,3 +2,7 @@
 venv/
 *.pyc
 __pycache__/
+db.sqlite3
+
+# en un proyecto django, se deben agregar las base de datos
+# en el caso de las migraciones, NO deben estar en el gitignore.
